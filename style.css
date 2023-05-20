@@ -1,0 +1,54 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* font-family: 'Coiny', cursive;
+font-family: 'Sono', sans-serif; */
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+body{
+    background-color: #292524;
+    color: #fafaf9;
+    font-family: 'Sono', sans-serif;
+    padding: 4rem;
+}
+.header{
+    margin: 4rem 0;
+}
+h1{
+    font-size: 4.2rem;
+    text-transform: uppercase;
+    font-family: 'Coiny' , sans-serif;
+    /* text-align: center; */
+}
+.fact-form{
+    background-color: #44403c;   
+    padding: 1.6rem 3.2rem;
+    margin-bottom: 4rem;
+}
+.fact-form span{
+    font-size: 1.6rem;
+}
+.fact{
+    font-size: 2rem;
+    line-height: 1.4;
+    background-color: #44403c;
+    margin-bottom: 1.6rem;
+    padding: 1.6rem 3.2rem;
+}
+
+.tag{
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    font-family: 'Coiny', sans-serif;
+    padding: 3px 10px 0;
+}
+
+ul{
+    list-style: none;
+}
